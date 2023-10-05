@@ -1,0 +1,2 @@
+Trial,Network Size,sigma,T,Accuracy,Precision,Recall,F1score,to_syn,lr,test_Acc,test_Pre,test_Rec,test_F1,trainingTime,testingTime,Number of Center
+1,30,3,10,0.97037,0.9552,0.95635,0.95547,0,0.01,0.95833,0.88889,0.95833,0.91111,24.5068,0.010552,40

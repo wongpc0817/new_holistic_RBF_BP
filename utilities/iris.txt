@@ -1,0 +1,2006 @@
+######################################################
+24-Sep-2023 17:24:45:Finished extracted the data for iris
+24-Sep-2023 17:24:45:Defining RBF clusters...
+24-Sep-2023 17:24:45:Finished finding the 40 RBF clusters, with delta=0.000010, T=10.000000
+24-Sep-2023 17:24:45:Begin Training ...
+24-Sep-2023 17:24:45:Error of round 2 : 0.771829 
+
+24-Sep-2023 17:24:45:Error of round 3 : 0.761909 
+
+24-Sep-2023 17:24:45:Error of round 4 : 0.758164 
+
+24-Sep-2023 17:24:45:Error of round 5 : 0.755718 
+
+24-Sep-2023 17:24:45:Error of round 6 : 0.754256 
+
+24-Sep-2023 17:24:45:Error of round 7 : 0.753407 
+
+24-Sep-2023 17:24:46:Error of round 8 : 0.752883 
+
+24-Sep-2023 17:24:46:Error of round 9 : 0.752534 
+
+24-Sep-2023 17:24:46:Error of round 10 : 0.752284 
+
+24-Sep-2023 17:24:46:Error of round 11 : 0.752094 
+
+24-Sep-2023 17:24:46:Error of round 12 : 0.751943 
+
+24-Sep-2023 17:24:46:Error of round 13 : 0.751818 
+
+24-Sep-2023 17:24:46:Error of round 14 : 0.751711 
+
+24-Sep-2023 17:24:46:Error of round 15 : 0.751616 
+
+24-Sep-2023 17:24:46:Error of round 16 : 0.751529 
+
+24-Sep-2023 17:24:46:Error of round 17 : 0.751449 
+
+24-Sep-2023 17:24:46:Error of round 18 : 0.751371 
+
+24-Sep-2023 17:24:46:Error of round 19 : 0.751295 
+
+24-Sep-2023 17:24:46:Error of round 20 : 0.751218 
+
+24-Sep-2023 17:24:46:Error of round 21 : 0.751140 
+
+24-Sep-2023 17:24:46:Error of round 22 : 0.751057 
+
+24-Sep-2023 17:24:46:Error of round 23 : 0.750967 
+
+24-Sep-2023 17:24:46:Error of round 24 : 0.750867 
+
+24-Sep-2023 17:24:46:Error of round 25 : 0.750753 
+
+24-Sep-2023 17:24:46:Error of round 26 : 0.750618 
+
+24-Sep-2023 17:24:46:Error of round 27 : 0.750451 
+
+24-Sep-2023 17:24:46:Error of round 28 : 0.750235 
+
+24-Sep-2023 17:24:46:Error of round 29 : 0.749932 
+
+24-Sep-2023 17:24:46:Error of round 30 : 0.749465 
+
+24-Sep-2023 17:24:46:Error of round 31 : 0.748604 
+
+24-Sep-2023 17:24:46:Error of round 32 : 0.746286 
+
+24-Sep-2023 17:24:46:Error of round 33 : 0.644472 
+
+24-Sep-2023 17:24:46:Error of round 34 : 0.400125 
+
+24-Sep-2023 17:24:46:Error of round 35 : 0.398227 
+
+24-Sep-2023 17:24:46:Error of round 36 : 0.397171 
+
+24-Sep-2023 17:24:46:Error of round 37 : 0.396516 
+
+24-Sep-2023 17:24:46:Error of round 38 : 0.396056 
+
+24-Sep-2023 17:24:46:Error of round 39 : 0.395693 
+
+24-Sep-2023 17:24:46:Error of round 40 : 0.395378 
+
+24-Sep-2023 17:24:46:Error of round 41 : 0.395081 
+
+24-Sep-2023 17:24:46:Error of round 42 : 0.394780 
+
+24-Sep-2023 17:24:46:Error of round 43 : 0.394459 
+
+24-Sep-2023 17:24:46:Error of round 44 : 0.394102 
+
+24-Sep-2023 17:24:46:Error of round 45 : 0.393691 
+
+24-Sep-2023 17:24:46:Error of round 46 : 0.393206 
+
+24-Sep-2023 17:24:46:Error of round 47 : 0.392620 
+
+24-Sep-2023 17:24:47:Error of round 48 : 0.391898 
+
+24-Sep-2023 17:24:47:Error of round 49 : 0.390991 
+
+24-Sep-2023 17:24:47:Error of round 50 : 0.389835 
+
+24-Sep-2023 17:24:47:Error of round 51 : 0.388335 
+
+24-Sep-2023 17:24:47:Error of round 52 : 0.386365 
+
+24-Sep-2023 17:24:47:Error of round 53 : 0.383752 
+
+24-Sep-2023 17:24:47:Error of round 54 : 0.380281 
+
+24-Sep-2023 17:24:47:Error of round 55 : 0.375729 
+
+24-Sep-2023 17:24:47:Error of round 56 : 0.369977 
+
+24-Sep-2023 17:24:47:Error of round 57 : 0.363172 
+
+24-Sep-2023 17:24:47:Error of round 58 : 0.355795 
+
+24-Sep-2023 17:24:47:Error of round 59 : 0.348454 
+
+24-Sep-2023 17:24:47:Error of round 60 : 0.341612 
+
+24-Sep-2023 17:24:47:Error of round 61 : 0.335490 
+
+24-Sep-2023 17:24:47:Error of round 62 : 0.330129 
+
+24-Sep-2023 17:24:47:Error of round 63 : 0.325460 
+
+24-Sep-2023 17:24:47:Error of round 64 : 0.321377 
+
+24-Sep-2023 17:24:47:Error of round 65 : 0.317770 
+
+24-Sep-2023 17:24:47:Error of round 66 : 0.314543 
+
+24-Sep-2023 17:24:47:Error of round 67 : 0.311617 
+
+24-Sep-2023 17:24:47:Error of round 68 : 0.308926 
+
+24-Sep-2023 17:24:47:Error of round 69 : 0.306421 
+
+24-Sep-2023 17:24:47:Error of round 70 : 0.304060 
+
+24-Sep-2023 17:24:47:Error of round 71 : 0.301808 
+
+24-Sep-2023 17:24:47:Error of round 72 : 0.299637 
+
+24-Sep-2023 17:24:47:Error of round 73 : 0.297522 
+
+24-Sep-2023 17:24:47:Error of round 74 : 0.295436 
+
+24-Sep-2023 17:24:47:Error of round 75 : 0.293354 
+
+24-Sep-2023 17:24:47:Error of round 76 : 0.291252 
+
+24-Sep-2023 17:24:47:Error of round 77 : 0.289105 
+
+24-Sep-2023 17:24:47:Error of round 78 : 0.286902 
+
+24-Sep-2023 17:24:47:Error of round 79 : 0.284652 
+
+24-Sep-2023 17:24:47:Error of round 80 : 0.282392 
+
+24-Sep-2023 17:24:47:Error of round 81 : 0.280166 
+
+24-Sep-2023 17:24:47:Error of round 82 : 0.278001 
+
+24-Sep-2023 17:24:47:Error of round 83 : 0.275898 
+
+24-Sep-2023 17:24:47:Error of round 84 : 0.273849 
+
+24-Sep-2023 17:24:47:Error of round 85 : 0.271839 
+
+24-Sep-2023 17:24:47:Error of round 86 : 0.269854 
+
+24-Sep-2023 17:24:47:Error of round 87 : 0.267886 
+
+24-Sep-2023 17:24:48:Error of round 88 : 0.265927 
+
+24-Sep-2023 17:24:48:Error of round 89 : 0.263972 
+
+24-Sep-2023 17:24:48:Error of round 90 : 0.262019 
+
+24-Sep-2023 17:24:48:Error of round 91 : 0.260064 
+
+24-Sep-2023 17:24:48:Error of round 92 : 0.258108 
+
+24-Sep-2023 17:24:48:Error of round 93 : 0.256147 
+
+24-Sep-2023 17:24:48:Error of round 94 : 0.254180 
+
+24-Sep-2023 17:24:48:Error of round 95 : 0.252208 
+
+24-Sep-2023 17:24:48:Error of round 96 : 0.250227 
+
+24-Sep-2023 17:24:48:Error of round 97 : 0.248238 
+
+24-Sep-2023 17:24:48:Error of round 98 : 0.246239 
+
+24-Sep-2023 17:24:48:Error of round 99 : 0.244228 
+
+24-Sep-2023 17:24:48:Error of round 100 : 0.242203 
+
+24-Sep-2023 17:24:48:Error of round 101 : 0.240164 
+
+24-Sep-2023 17:24:48:Error of round 102 : 0.238108 
+
+24-Sep-2023 17:24:48:Error of round 103 : 0.236035 
+
+24-Sep-2023 17:24:48:Error of round 104 : 0.233943 
+
+24-Sep-2023 17:24:48:Error of round 105 : 0.231830 
+
+24-Sep-2023 17:24:48:Error of round 106 : 0.229696 
+
+24-Sep-2023 17:24:48:Error of round 107 : 0.227541 
+
+24-Sep-2023 17:24:48:Error of round 108 : 0.225366 
+
+24-Sep-2023 17:24:48:Error of round 109 : 0.223172 
+
+24-Sep-2023 17:24:48:Error of round 110 : 0.220960 
+
+24-Sep-2023 17:24:48:Error of round 111 : 0.218735 
+
+24-Sep-2023 17:24:48:Error of round 112 : 0.216500 
+
+24-Sep-2023 17:24:48:Error of round 113 : 0.214260 
+
+24-Sep-2023 17:24:48:Error of round 114 : 0.212018 
+
+24-Sep-2023 17:24:48:Error of round 115 : 0.209777 
+
+24-Sep-2023 17:24:48:Error of round 116 : 0.207541 
+
+24-Sep-2023 17:24:48:Error of round 117 : 0.205311 
+
+24-Sep-2023 17:24:48:Error of round 118 : 0.203088 
+
+24-Sep-2023 17:24:48:Error of round 119 : 0.200872 
+
+24-Sep-2023 17:24:48:Error of round 120 : 0.198663 
+
+24-Sep-2023 17:24:48:Error of round 121 : 0.196461 
+
+24-Sep-2023 17:24:48:Error of round 122 : 0.194265 
+
+24-Sep-2023 17:24:48:Error of round 123 : 0.192074 
+
+24-Sep-2023 17:24:48:Error of round 124 : 0.189888 
+
+24-Sep-2023 17:24:48:Error of round 125 : 0.187707 
+
+24-Sep-2023 17:24:48:Error of round 126 : 0.185529 
+
+24-Sep-2023 17:24:48:Error of round 127 : 0.183356 
+
+24-Sep-2023 17:24:48:Error of round 128 : 0.181185 
+
+24-Sep-2023 17:24:49:Error of round 129 : 0.179016 
+
+24-Sep-2023 17:24:49:Error of round 130 : 0.176850 
+
+24-Sep-2023 17:24:49:Error of round 131 : 0.174686 
+
+24-Sep-2023 17:24:49:Error of round 132 : 0.172523 
+
+24-Sep-2023 17:24:49:Error of round 133 : 0.170362 
+
+24-Sep-2023 17:24:49:Error of round 134 : 0.168201 
+
+24-Sep-2023 17:24:49:Error of round 135 : 0.166041 
+
+24-Sep-2023 17:24:49:Error of round 136 : 0.163881 
+
+24-Sep-2023 17:24:49:Error of round 137 : 0.161723 
+
+24-Sep-2023 17:24:49:Error of round 138 : 0.159565 
+
+24-Sep-2023 17:24:49:Error of round 139 : 0.157409 
+
+24-Sep-2023 17:24:49:Error of round 140 : 0.155255 
+
+24-Sep-2023 17:24:49:Error of round 141 : 0.153104 
+
+24-Sep-2023 17:24:49:Error of round 142 : 0.150956 
+
+24-Sep-2023 17:24:49:Error of round 143 : 0.148813 
+
+24-Sep-2023 17:24:49:Error of round 144 : 0.146675 
+
+24-Sep-2023 17:24:49:Error of round 145 : 0.144544 
+
+24-Sep-2023 17:24:49:Error of round 146 : 0.142422 
+
+24-Sep-2023 17:24:49:Error of round 147 : 0.140309 
+
+24-Sep-2023 17:24:49:Error of round 148 : 0.138208 
+
+24-Sep-2023 17:24:49:Error of round 149 : 0.136120 
+
+24-Sep-2023 17:24:49:Error of round 150 : 0.134046 
+
+24-Sep-2023 17:24:49:Error of round 151 : 0.131989 
+
+24-Sep-2023 17:24:49:Error of round 152 : 0.129951 
+
+24-Sep-2023 17:24:49:Error of round 153 : 0.127932 
+
+24-Sep-2023 17:24:49:Error of round 154 : 0.125936 
+
+24-Sep-2023 17:24:49:Error of round 155 : 0.123963 
+
+24-Sep-2023 17:24:49:Error of round 156 : 0.122017 
+
+24-Sep-2023 17:24:49:Error of round 157 : 0.120098 
+
+24-Sep-2023 17:24:49:Error of round 158 : 0.118210 
+
+24-Sep-2023 17:24:49:Error of round 159 : 0.116353 
+
+24-Sep-2023 17:24:49:Error of round 160 : 0.114529 
+
+24-Sep-2023 17:24:49:Error of round 161 : 0.112741 
+
+24-Sep-2023 17:24:49:Error of round 162 : 0.110990 
+
+24-Sep-2023 17:24:49:Error of round 163 : 0.109278 
+
+24-Sep-2023 17:24:49:Error of round 164 : 0.107606 
+
+24-Sep-2023 17:24:49:Error of round 165 : 0.105977 
+
+24-Sep-2023 17:24:49:Error of round 166 : 0.104390 
+
+24-Sep-2023 17:24:49:Error of round 167 : 0.102849 
+
+24-Sep-2023 17:24:49:Error of round 168 : 0.101353 
+
+24-Sep-2023 17:24:49:Error of round 169 : 0.099904 
+
+24-Sep-2023 17:24:50:Error of round 170 : 0.098502 
+
+24-Sep-2023 17:24:50:Error of round 171 : 0.097149 
+
+24-Sep-2023 17:24:50:Error of round 172 : 0.095845 
+
+24-Sep-2023 17:24:50:Error of round 173 : 0.094591 
+
+24-Sep-2023 17:24:50:Error of round 174 : 0.093386 
+
+24-Sep-2023 17:24:50:Error of round 175 : 0.092232 
+
+24-Sep-2023 17:24:50:Error of round 176 : 0.091127 
+
+24-Sep-2023 17:24:50:Error of round 177 : 0.090073 
+
+24-Sep-2023 17:24:50:Error of round 178 : 0.089068 
+
+24-Sep-2023 17:24:50:Error of round 179 : 0.088113 
+
+24-Sep-2023 17:24:50:Error of round 180 : 0.087206 
+
+24-Sep-2023 17:24:50:Error of round 181 : 0.086348 
+
+24-Sep-2023 17:24:50:Error of round 182 : 0.085536 
+
+24-Sep-2023 17:24:50:Error of round 183 : 0.084770 
+
+24-Sep-2023 17:24:50:Error of round 184 : 0.084048 
+
+24-Sep-2023 17:24:50:Error of round 185 : 0.083369 
+
+24-Sep-2023 17:24:50:Error of round 186 : 0.082731 
+
+24-Sep-2023 17:24:50:Error of round 187 : 0.082132 
+
+24-Sep-2023 17:24:50:Error of round 188 : 0.081570 
+
+24-Sep-2023 17:24:50:Error of round 189 : 0.081043 
+
+24-Sep-2023 17:24:50:Error of round 190 : 0.080549 
+
+24-Sep-2023 17:24:50:Error of round 191 : 0.080085 
+
+24-Sep-2023 17:24:50:Error of round 192 : 0.079650 
+
+24-Sep-2023 17:24:50:Error of round 193 : 0.079240 
+
+24-Sep-2023 17:24:50:Error of round 194 : 0.078855 
+
+24-Sep-2023 17:24:50:Error of round 195 : 0.078493 
+
+24-Sep-2023 17:24:50:Error of round 196 : 0.078150 
+
+24-Sep-2023 17:24:50:Error of round 197 : 0.077826 
+
+24-Sep-2023 17:24:50:Error of round 198 : 0.077519 
+
+24-Sep-2023 17:24:50:Error of round 199 : 0.077228 
+
+24-Sep-2023 17:24:50:Error of round 200 : 0.076950 
+
+24-Sep-2023 17:24:50:Error of round 201 : 0.076685 
+
+24-Sep-2023 17:24:50:Error of round 202 : 0.076432 
+
+24-Sep-2023 17:24:50:Error of round 203 : 0.076190 
+
+24-Sep-2023 17:24:50:Error of round 204 : 0.075957 
+
+24-Sep-2023 17:24:50:Error of round 205 : 0.075732 
+
+24-Sep-2023 17:24:50:Error of round 206 : 0.075516 
+
+24-Sep-2023 17:24:50:Error of round 207 : 0.075308 
+
+24-Sep-2023 17:24:50:Error of round 208 : 0.075106 
+
+24-Sep-2023 17:24:50:Error of round 209 : 0.074910 
+
+24-Sep-2023 17:24:50:Error of round 210 : 0.074720 
+
+24-Sep-2023 17:24:51:Error of round 211 : 0.074535 
+
+24-Sep-2023 17:24:51:Error of round 212 : 0.074356 
+
+24-Sep-2023 17:24:51:Error of round 213 : 0.074180 
+
+24-Sep-2023 17:24:51:Error of round 214 : 0.074009 
+
+24-Sep-2023 17:24:51:Error of round 215 : 0.073842 
+
+24-Sep-2023 17:24:51:Error of round 216 : 0.073679 
+
+24-Sep-2023 17:24:51:Error of round 217 : 0.073519 
+
+24-Sep-2023 17:24:51:Error of round 218 : 0.073363 
+
+24-Sep-2023 17:24:51:Error of round 219 : 0.073209 
+
+24-Sep-2023 17:24:51:Error of round 220 : 0.073059 
+
+24-Sep-2023 17:24:51:Error of round 221 : 0.072911 
+
+24-Sep-2023 17:24:51:Error of round 222 : 0.072766 
+
+24-Sep-2023 17:24:51:Error of round 223 : 0.072623 
+
+24-Sep-2023 17:24:51:Error of round 224 : 0.072483 
+
+24-Sep-2023 17:24:51:Error of round 225 : 0.072345 
+
+24-Sep-2023 17:24:51:Error of round 226 : 0.072209 
+
+24-Sep-2023 17:24:51:Error of round 227 : 0.072075 
+
+24-Sep-2023 17:24:51:Error of round 228 : 0.071943 
+
+24-Sep-2023 17:24:51:Error of round 229 : 0.071813 
+
+24-Sep-2023 17:24:51:Error of round 230 : 0.071685 
+
+24-Sep-2023 17:24:51:Error of round 231 : 0.071559 
+
+24-Sep-2023 17:24:51:Error of round 232 : 0.071435 
+
+24-Sep-2023 17:24:51:Error of round 233 : 0.071312 
+
+24-Sep-2023 17:24:51:Error of round 234 : 0.071191 
+
+24-Sep-2023 17:24:51:Error of round 235 : 0.071072 
+
+24-Sep-2023 17:24:51:Error of round 236 : 0.070954 
+
+24-Sep-2023 17:24:51:Error of round 237 : 0.070837 
+
+24-Sep-2023 17:24:51:Error of round 238 : 0.070722 
+
+24-Sep-2023 17:24:51:Error of round 239 : 0.070608 
+
+24-Sep-2023 17:24:51:Error of round 240 : 0.070496 
+
+24-Sep-2023 17:24:51:Error of round 241 : 0.070385 
+
+24-Sep-2023 17:24:51:Error of round 242 : 0.070276 
+
+24-Sep-2023 17:24:51:Error of round 243 : 0.070167 
+
+24-Sep-2023 17:24:51:Error of round 244 : 0.070060 
+
+24-Sep-2023 17:24:51:Error of round 245 : 0.069954 
+
+24-Sep-2023 17:24:51:Error of round 246 : 0.069850 
+
+24-Sep-2023 17:24:51:Error of round 247 : 0.069746 
+
+24-Sep-2023 17:24:51:Error of round 248 : 0.069644 
+
+24-Sep-2023 17:24:51:Error of round 249 : 0.069543 
+
+24-Sep-2023 17:24:51:Error of round 250 : 0.069443 
+
+24-Sep-2023 17:24:51:Error of round 251 : 0.069344 
+
+24-Sep-2023 17:24:52:Error of round 252 : 0.069246 
+
+24-Sep-2023 17:24:52:Error of round 253 : 0.069149 
+
+24-Sep-2023 17:24:52:Error of round 254 : 0.069053 
+
+24-Sep-2023 17:24:52:Error of round 255 : 0.068958 
+
+24-Sep-2023 17:24:52:Error of round 256 : 0.068864 
+
+24-Sep-2023 17:24:52:Error of round 257 : 0.068770 
+
+24-Sep-2023 17:24:52:Error of round 258 : 0.068678 
+
+24-Sep-2023 17:24:52:Error of round 259 : 0.068587 
+
+24-Sep-2023 17:24:52:Error of round 260 : 0.068497 
+
+24-Sep-2023 17:24:52:Error of round 261 : 0.068407 
+
+24-Sep-2023 17:24:52:Error of round 262 : 0.068319 
+
+24-Sep-2023 17:24:52:Error of round 263 : 0.068231 
+
+24-Sep-2023 17:24:52:Error of round 264 : 0.068144 
+
+24-Sep-2023 17:24:52:Error of round 265 : 0.068058 
+
+24-Sep-2023 17:24:52:Error of round 266 : 0.067973 
+
+24-Sep-2023 17:24:52:Error of round 267 : 0.067888 
+
+24-Sep-2023 17:24:52:Error of round 268 : 0.067805 
+
+24-Sep-2023 17:24:52:Error of round 269 : 0.067722 
+
+24-Sep-2023 17:24:52:Error of round 270 : 0.067639 
+
+24-Sep-2023 17:24:52:Error of round 271 : 0.067558 
+
+24-Sep-2023 17:24:52:Error of round 272 : 0.067477 
+
+24-Sep-2023 17:24:52:Error of round 273 : 0.067397 
+
+24-Sep-2023 17:24:52:Error of round 274 : 0.067318 
+
+24-Sep-2023 17:24:52:Error of round 275 : 0.067239 
+
+24-Sep-2023 17:24:52:Error of round 276 : 0.067161 
+
+24-Sep-2023 17:24:52:Error of round 277 : 0.067084 
+
+24-Sep-2023 17:24:52:Error of round 278 : 0.067008 
+
+24-Sep-2023 17:24:52:Error of round 279 : 0.066932 
+
+24-Sep-2023 17:24:52:Error of round 280 : 0.066856 
+
+24-Sep-2023 17:24:52:Error of round 281 : 0.066782 
+
+24-Sep-2023 17:24:52:Error of round 282 : 0.066708 
+
+24-Sep-2023 17:24:52:Error of round 283 : 0.066634 
+
+24-Sep-2023 17:24:52:Error of round 284 : 0.066561 
+
+24-Sep-2023 17:24:52:Error of round 285 : 0.066489 
+
+24-Sep-2023 17:24:52:Error of round 286 : 0.066417 
+
+24-Sep-2023 17:24:52:Error of round 287 : 0.066346 
+
+24-Sep-2023 17:24:52:Error of round 288 : 0.066276 
+
+24-Sep-2023 17:24:52:Error of round 289 : 0.066206 
+
+24-Sep-2023 17:24:52:Error of round 290 : 0.066137 
+
+24-Sep-2023 17:24:52:Error of round 291 : 0.066068 
+
+24-Sep-2023 17:24:52:Error of round 292 : 0.065999 
+
+24-Sep-2023 17:24:53:Error of round 293 : 0.065932 
+
+24-Sep-2023 17:24:53:Error of round 294 : 0.065864 
+
+24-Sep-2023 17:24:53:Error of round 295 : 0.065798 
+
+24-Sep-2023 17:24:53:Error of round 296 : 0.065731 
+
+24-Sep-2023 17:24:53:Error of round 297 : 0.065666 
+
+24-Sep-2023 17:24:53:Error of round 298 : 0.065600 
+
+24-Sep-2023 17:24:53:Error of round 299 : 0.065536 
+
+24-Sep-2023 17:24:53:Error of round 300 : 0.065471 
+
+24-Sep-2023 17:24:53:Error of round 301 : 0.065408 
+
+24-Sep-2023 17:24:53:Error of round 302 : 0.065344 
+
+24-Sep-2023 17:24:53:Error of round 303 : 0.065281 
+
+24-Sep-2023 17:24:53:Error of round 304 : 0.065219 
+
+24-Sep-2023 17:24:53:Error of round 305 : 0.065157 
+
+24-Sep-2023 17:24:53:Error of round 306 : 0.065096 
+
+24-Sep-2023 17:24:53:Error of round 307 : 0.065034 
+
+24-Sep-2023 17:24:53:Error of round 308 : 0.064974 
+
+24-Sep-2023 17:24:53:Error of round 309 : 0.064914 
+
+24-Sep-2023 17:24:53:Error of round 310 : 0.064854 
+
+24-Sep-2023 17:24:53:Error of round 311 : 0.064794 
+
+24-Sep-2023 17:24:53:Error of round 312 : 0.064736 
+
+24-Sep-2023 17:24:53:Error of round 313 : 0.064677 
+
+24-Sep-2023 17:24:53:Error of round 314 : 0.064619 
+
+24-Sep-2023 17:24:53:Error of round 315 : 0.064561 
+
+24-Sep-2023 17:24:53:Error of round 316 : 0.064504 
+
+24-Sep-2023 17:24:53:Error of round 317 : 0.064447 
+
+24-Sep-2023 17:24:53:Error of round 318 : 0.064390 
+
+24-Sep-2023 17:24:53:Error of round 319 : 0.064334 
+
+24-Sep-2023 17:24:53:Error of round 320 : 0.064278 
+
+24-Sep-2023 17:24:53:Error of round 321 : 0.064223 
+
+24-Sep-2023 17:24:53:Error of round 322 : 0.064168 
+
+24-Sep-2023 17:24:53:Error of round 323 : 0.064113 
+
+24-Sep-2023 17:24:53:Error of round 324 : 0.064059 
+
+24-Sep-2023 17:24:53:Error of round 325 : 0.064005 
+
+24-Sep-2023 17:24:53:Error of round 326 : 0.063951 
+
+24-Sep-2023 17:24:53:Error of round 327 : 0.063898 
+
+24-Sep-2023 17:24:53:Error of round 328 : 0.063845 
+
+24-Sep-2023 17:24:53:Error of round 329 : 0.063792 
+
+24-Sep-2023 17:24:53:Error of round 330 : 0.063740 
+
+24-Sep-2023 17:24:53:Error of round 331 : 0.063688 
+
+24-Sep-2023 17:24:53:Error of round 332 : 0.063636 
+
+24-Sep-2023 17:24:53:Error of round 333 : 0.063585 
+
+24-Sep-2023 17:24:54:Error of round 334 : 0.063534 
+
+24-Sep-2023 17:24:54:Error of round 335 : 0.063483 
+
+24-Sep-2023 17:24:54:Error of round 336 : 0.063433 
+
+24-Sep-2023 17:24:54:Error of round 337 : 0.063383 
+
+24-Sep-2023 17:24:54:Error of round 338 : 0.063333 
+
+24-Sep-2023 17:24:54:Error of round 339 : 0.063284 
+
+24-Sep-2023 17:24:54:Error of round 340 : 0.063235 
+
+24-Sep-2023 17:24:54:Error of round 341 : 0.063186 
+
+24-Sep-2023 17:24:54:Error of round 342 : 0.063138 
+
+24-Sep-2023 17:24:54:Error of round 343 : 0.063089 
+
+24-Sep-2023 17:24:54:Error of round 344 : 0.063041 
+
+24-Sep-2023 17:24:54:Error of round 345 : 0.062994 
+
+24-Sep-2023 17:24:54:Error of round 346 : 0.062947 
+
+24-Sep-2023 17:24:54:Error of round 347 : 0.062899 
+
+24-Sep-2023 17:24:54:Error of round 348 : 0.062853 
+
+24-Sep-2023 17:24:54:Error of round 349 : 0.062806 
+
+24-Sep-2023 17:24:54:Error of round 350 : 0.062760 
+
+24-Sep-2023 17:24:54:Error of round 351 : 0.062714 
+
+24-Sep-2023 17:24:54:Error of round 352 : 0.062668 
+
+24-Sep-2023 17:24:54:Error of round 353 : 0.062623 
+
+24-Sep-2023 17:24:54:Error of round 354 : 0.062578 
+
+24-Sep-2023 17:24:54:Error of round 355 : 0.062533 
+
+24-Sep-2023 17:24:54:Error of round 356 : 0.062488 
+
+24-Sep-2023 17:24:54:Error of round 357 : 0.062444 
+
+24-Sep-2023 17:24:54:Error of round 358 : 0.062400 
+
+24-Sep-2023 17:24:54:Error of round 359 : 0.062356 
+
+24-Sep-2023 17:24:54:Error of round 360 : 0.062312 
+
+24-Sep-2023 17:24:54:Error of round 361 : 0.062269 
+
+24-Sep-2023 17:24:54:Error of round 362 : 0.062226 
+
+24-Sep-2023 17:24:54:Error of round 363 : 0.062183 
+
+24-Sep-2023 17:24:54:Error of round 364 : 0.062140 
+
+24-Sep-2023 17:24:54:Error of round 365 : 0.062098 
+
+24-Sep-2023 17:24:54:Error of round 366 : 0.062055 
+
+24-Sep-2023 17:24:54:Error of round 367 : 0.062014 
+
+24-Sep-2023 17:24:54:Error of round 368 : 0.061972 
+
+24-Sep-2023 17:24:54:Error of round 369 : 0.061930 
+
+24-Sep-2023 17:24:54:Error of round 370 : 0.061889 
+
+24-Sep-2023 17:24:54:Error of round 371 : 0.061848 
+
+24-Sep-2023 17:24:54:Error of round 372 : 0.061807 
+
+24-Sep-2023 17:24:54:Error of round 373 : 0.061767 
+
+24-Sep-2023 17:24:54:Error of round 374 : 0.061726 
+
+24-Sep-2023 17:24:55:Error of round 375 : 0.061686 
+
+24-Sep-2023 17:24:55:Error of round 376 : 0.061646 
+
+24-Sep-2023 17:24:55:Error of round 377 : 0.061606 
+
+24-Sep-2023 17:24:55:Error of round 378 : 0.061567 
+
+24-Sep-2023 17:24:55:Error of round 379 : 0.061528 
+
+24-Sep-2023 17:24:55:Error of round 380 : 0.061488 
+
+24-Sep-2023 17:24:55:Error of round 381 : 0.061449 
+
+24-Sep-2023 17:24:55:Error of round 382 : 0.061411 
+
+24-Sep-2023 17:24:55:Error of round 383 : 0.061372 
+
+24-Sep-2023 17:24:55:Error of round 384 : 0.061334 
+
+24-Sep-2023 17:24:55:Error of round 385 : 0.061296 
+
+24-Sep-2023 17:24:55:Error of round 386 : 0.061258 
+
+24-Sep-2023 17:24:55:Error of round 387 : 0.061220 
+
+24-Sep-2023 17:24:55:Error of round 388 : 0.061183 
+
+24-Sep-2023 17:24:55:Error of round 389 : 0.061145 
+
+24-Sep-2023 17:24:55:Error of round 390 : 0.061108 
+
+24-Sep-2023 17:24:55:Error of round 391 : 0.061071 
+
+24-Sep-2023 17:24:55:Error of round 392 : 0.061035 
+
+24-Sep-2023 17:24:55:Error of round 393 : 0.060998 
+
+24-Sep-2023 17:24:55:Error of round 394 : 0.060962 
+
+24-Sep-2023 17:24:55:Error of round 395 : 0.060925 
+
+24-Sep-2023 17:24:55:Error of round 396 : 0.060889 
+
+24-Sep-2023 17:24:55:Error of round 397 : 0.060854 
+
+24-Sep-2023 17:24:55:Error of round 398 : 0.060818 
+
+24-Sep-2023 17:24:55:Error of round 399 : 0.060782 
+
+24-Sep-2023 17:24:55:Error of round 400 : 0.060747 
+
+24-Sep-2023 17:24:55:Error of round 401 : 0.060712 
+
+24-Sep-2023 17:24:55:Error of round 402 : 0.060677 
+
+24-Sep-2023 17:24:55:Error of round 403 : 0.060642 
+
+24-Sep-2023 17:24:55:Error of round 404 : 0.060607 
+
+24-Sep-2023 17:24:55:Error of round 405 : 0.060573 
+
+24-Sep-2023 17:24:55:Error of round 406 : 0.060539 
+
+24-Sep-2023 17:24:55:Error of round 407 : 0.060505 
+
+24-Sep-2023 17:24:55:Error of round 408 : 0.060471 
+
+24-Sep-2023 17:24:55:Error of round 409 : 0.060437 
+
+24-Sep-2023 17:24:55:Error of round 410 : 0.060403 
+
+24-Sep-2023 17:24:55:Error of round 411 : 0.060370 
+
+24-Sep-2023 17:24:55:Error of round 412 : 0.060336 
+
+24-Sep-2023 17:24:55:Error of round 413 : 0.060303 
+
+24-Sep-2023 17:24:55:Error of round 414 : 0.060270 
+
+24-Sep-2023 17:24:56:Error of round 415 : 0.060237 
+
+24-Sep-2023 17:24:56:Error of round 416 : 0.060204 
+
+24-Sep-2023 17:24:56:Error of round 417 : 0.060172 
+
+24-Sep-2023 17:24:56:Error of round 418 : 0.060139 
+
+24-Sep-2023 17:24:56:Error of round 419 : 0.060107 
+
+24-Sep-2023 17:24:56:Error of round 420 : 0.060075 
+
+24-Sep-2023 17:24:56:Error of round 421 : 0.060043 
+
+24-Sep-2023 17:24:56:Error of round 422 : 0.060011 
+
+24-Sep-2023 17:24:56:Error of round 423 : 0.059979 
+
+24-Sep-2023 17:24:56:Error of round 424 : 0.059948 
+
+24-Sep-2023 17:24:56:Error of round 425 : 0.059916 
+
+24-Sep-2023 17:24:56:Error of round 426 : 0.059885 
+
+24-Sep-2023 17:24:56:Error of round 427 : 0.059854 
+
+24-Sep-2023 17:24:56:Error of round 428 : 0.059823 
+
+24-Sep-2023 17:24:56:Error of round 429 : 0.059792 
+
+24-Sep-2023 17:24:56:Error of round 430 : 0.059761 
+
+24-Sep-2023 17:24:56:Error of round 431 : 0.059731 
+
+24-Sep-2023 17:24:56:Error of round 432 : 0.059700 
+
+24-Sep-2023 17:24:56:Error of round 433 : 0.059670 
+
+24-Sep-2023 17:24:56:Error of round 434 : 0.059640 
+
+24-Sep-2023 17:24:56:Error of round 435 : 0.059610 
+
+24-Sep-2023 17:24:56:Error of round 436 : 0.059580 
+
+24-Sep-2023 17:24:56:Error of round 437 : 0.059550 
+
+24-Sep-2023 17:24:56:Error of round 438 : 0.059520 
+
+24-Sep-2023 17:24:56:Error of round 439 : 0.059491 
+
+24-Sep-2023 17:24:56:Error of round 440 : 0.059461 
+
+24-Sep-2023 17:24:56:Error of round 441 : 0.059432 
+
+24-Sep-2023 17:24:56:Error of round 442 : 0.059403 
+
+24-Sep-2023 17:24:56:Error of round 443 : 0.059374 
+
+24-Sep-2023 17:24:56:Error of round 444 : 0.059345 
+
+24-Sep-2023 17:24:56:Error of round 445 : 0.059316 
+
+24-Sep-2023 17:24:56:Error of round 446 : 0.059287 
+
+24-Sep-2023 17:24:56:Error of round 447 : 0.059259 
+
+24-Sep-2023 17:24:56:Error of round 448 : 0.059230 
+
+24-Sep-2023 17:24:56:Error of round 449 : 0.059202 
+
+24-Sep-2023 17:24:56:Error of round 450 : 0.059174 
+
+24-Sep-2023 17:24:56:Error of round 451 : 0.059145 
+
+24-Sep-2023 17:24:56:Error of round 452 : 0.059117 
+
+24-Sep-2023 17:24:56:Error of round 453 : 0.059089 
+
+24-Sep-2023 17:24:56:Error of round 454 : 0.059062 
+
+24-Sep-2023 17:24:56:Error of round 455 : 0.059034 
+
+24-Sep-2023 17:24:57:Error of round 456 : 0.059006 
+
+24-Sep-2023 17:24:57:Error of round 457 : 0.058979 
+
+24-Sep-2023 17:24:57:Error of round 458 : 0.058952 
+
+24-Sep-2023 17:24:57:Error of round 459 : 0.058924 
+
+24-Sep-2023 17:24:57:Error of round 460 : 0.058897 
+
+24-Sep-2023 17:24:57:Error of round 461 : 0.058870 
+
+24-Sep-2023 17:24:57:Error of round 462 : 0.058843 
+
+24-Sep-2023 17:24:57:Error of round 463 : 0.058816 
+
+24-Sep-2023 17:24:57:Error of round 464 : 0.058790 
+
+24-Sep-2023 17:24:57:Error of round 465 : 0.058763 
+
+24-Sep-2023 17:24:57:Error of round 466 : 0.058736 
+
+24-Sep-2023 17:24:57:Error of round 467 : 0.058710 
+
+24-Sep-2023 17:24:57:Error of round 468 : 0.058684 
+
+24-Sep-2023 17:24:57:Error of round 469 : 0.058657 
+
+24-Sep-2023 17:24:57:Error of round 470 : 0.058631 
+
+24-Sep-2023 17:24:57:Error of round 471 : 0.058605 
+
+24-Sep-2023 17:24:57:Error of round 472 : 0.058579 
+
+24-Sep-2023 17:24:57:Error of round 473 : 0.058554 
+
+24-Sep-2023 17:24:57:Error of round 474 : 0.058528 
+
+24-Sep-2023 17:24:57:Error of round 475 : 0.058502 
+
+24-Sep-2023 17:24:57:Error of round 476 : 0.058477 
+
+24-Sep-2023 17:24:57:Error of round 477 : 0.058451 
+
+24-Sep-2023 17:24:57:Error of round 478 : 0.058426 
+
+24-Sep-2023 17:24:57:Error of round 479 : 0.058400 
+
+24-Sep-2023 17:24:57:Error of round 480 : 0.058375 
+
+24-Sep-2023 17:24:57:Error of round 481 : 0.058350 
+
+24-Sep-2023 17:24:57:Error of round 482 : 0.058325 
+
+24-Sep-2023 17:24:57:Error of round 483 : 0.058300 
+
+24-Sep-2023 17:24:57:Error of round 484 : 0.058275 
+
+24-Sep-2023 17:24:57:Error of round 485 : 0.058251 
+
+24-Sep-2023 17:24:57:Error of round 486 : 0.058226 
+
+24-Sep-2023 17:24:57:Error of round 487 : 0.058201 
+
+24-Sep-2023 17:24:57:Error of round 488 : 0.058177 
+
+24-Sep-2023 17:24:57:Error of round 489 : 0.058153 
+
+24-Sep-2023 17:24:57:Error of round 490 : 0.058128 
+
+24-Sep-2023 17:24:57:Error of round 491 : 0.058104 
+
+24-Sep-2023 17:24:57:Error of round 492 : 0.058080 
+
+24-Sep-2023 17:24:57:Error of round 493 : 0.058056 
+
+24-Sep-2023 17:24:57:Error of round 494 : 0.058032 
+
+24-Sep-2023 17:24:57:Error of round 495 : 0.058008 
+
+24-Sep-2023 17:24:57:Error of round 496 : 0.057984 
+
+24-Sep-2023 17:24:58:Error of round 497 : 0.057960 
+
+24-Sep-2023 17:24:58:Error of round 498 : 0.057937 
+
+24-Sep-2023 17:24:58:Error of round 499 : 0.057913 
+
+24-Sep-2023 17:24:58:Error of round 500 : 0.057890 
+
+24-Sep-2023 17:24:58:Error of round 501 : 0.057866 
+
+24-Sep-2023 17:24:58:Error of round 502 : 0.057843 
+
+24-Sep-2023 17:24:58:Error of round 503 : 0.057819 
+
+24-Sep-2023 17:24:58:Error of round 504 : 0.057796 
+
+24-Sep-2023 17:24:58:Error of round 505 : 0.057773 
+
+24-Sep-2023 17:24:58:Error of round 506 : 0.057750 
+
+24-Sep-2023 17:24:58:Error of round 507 : 0.057727 
+
+24-Sep-2023 17:24:58:Error of round 508 : 0.057704 
+
+24-Sep-2023 17:24:58:Error of round 509 : 0.057681 
+
+24-Sep-2023 17:24:58:Error of round 510 : 0.057659 
+
+24-Sep-2023 17:24:58:Error of round 511 : 0.057636 
+
+24-Sep-2023 17:24:58:Error of round 512 : 0.057613 
+
+24-Sep-2023 17:24:58:Error of round 513 : 0.057591 
+
+24-Sep-2023 17:24:58:Error of round 514 : 0.057568 
+
+24-Sep-2023 17:24:58:Error of round 515 : 0.057546 
+
+24-Sep-2023 17:24:58:Error of round 516 : 0.057524 
+
+24-Sep-2023 17:24:58:Error of round 517 : 0.057501 
+
+24-Sep-2023 17:24:58:Error of round 518 : 0.057479 
+
+24-Sep-2023 17:24:58:Error of round 519 : 0.057457 
+
+24-Sep-2023 17:24:58:Error of round 520 : 0.057435 
+
+24-Sep-2023 17:24:58:Error of round 521 : 0.057413 
+
+24-Sep-2023 17:24:58:Error of round 522 : 0.057391 
+
+24-Sep-2023 17:24:58:Error of round 523 : 0.057369 
+
+24-Sep-2023 17:24:58:Error of round 524 : 0.057347 
+
+24-Sep-2023 17:24:58:Error of round 525 : 0.057325 
+
+24-Sep-2023 17:24:58:Error of round 526 : 0.057304 
+
+24-Sep-2023 17:24:58:Error of round 527 : 0.057282 
+
+24-Sep-2023 17:24:58:Error of round 528 : 0.057261 
+
+24-Sep-2023 17:24:58:Error of round 529 : 0.057239 
+
+24-Sep-2023 17:24:58:Error of round 530 : 0.057218 
+
+24-Sep-2023 17:24:58:Error of round 531 : 0.057196 
+
+24-Sep-2023 17:24:58:Error of round 532 : 0.057175 
+
+24-Sep-2023 17:24:58:Error of round 533 : 0.057154 
+
+24-Sep-2023 17:24:58:Error of round 534 : 0.057133 
+
+24-Sep-2023 17:24:58:Error of round 535 : 0.057112 
+
+24-Sep-2023 17:24:58:Error of round 536 : 0.057091 
+
+24-Sep-2023 17:24:59:Error of round 537 : 0.057070 
+
+24-Sep-2023 17:24:59:Error of round 538 : 0.057049 
+
+24-Sep-2023 17:24:59:Error of round 539 : 0.057028 
+
+24-Sep-2023 17:24:59:Error of round 540 : 0.057007 
+
+24-Sep-2023 17:24:59:Error of round 541 : 0.056986 
+
+24-Sep-2023 17:24:59:Error of round 542 : 0.056965 
+
+24-Sep-2023 17:24:59:Error of round 543 : 0.056945 
+
+24-Sep-2023 17:24:59:Error of round 544 : 0.056924 
+
+24-Sep-2023 17:24:59:Error of round 545 : 0.056904 
+
+24-Sep-2023 17:24:59:Error of round 546 : 0.056883 
+
+24-Sep-2023 17:24:59:Error of round 547 : 0.056863 
+
+24-Sep-2023 17:24:59:Error of round 548 : 0.056842 
+
+24-Sep-2023 17:24:59:Error of round 549 : 0.056822 
+
+24-Sep-2023 17:24:59:Error of round 550 : 0.056802 
+
+24-Sep-2023 17:24:59:Error of round 551 : 0.056782 
+
+24-Sep-2023 17:24:59:Error of round 552 : 0.056762 
+
+24-Sep-2023 17:24:59:Error of round 553 : 0.056741 
+
+24-Sep-2023 17:24:59:Error of round 554 : 0.056721 
+
+24-Sep-2023 17:24:59:Error of round 555 : 0.056701 
+
+24-Sep-2023 17:24:59:Error of round 556 : 0.056681 
+
+24-Sep-2023 17:24:59:Error of round 557 : 0.056662 
+
+24-Sep-2023 17:24:59:Error of round 558 : 0.056642 
+
+24-Sep-2023 17:24:59:Error of round 559 : 0.056622 
+
+24-Sep-2023 17:24:59:Error of round 560 : 0.056602 
+
+24-Sep-2023 17:24:59:Error of round 561 : 0.056583 
+
+24-Sep-2023 17:24:59:Error of round 562 : 0.056563 
+
+24-Sep-2023 17:24:59:Error of round 563 : 0.056543 
+
+24-Sep-2023 17:24:59:Error of round 564 : 0.056524 
+
+24-Sep-2023 17:24:59:Error of round 565 : 0.056504 
+
+24-Sep-2023 17:24:59:Error of round 566 : 0.056485 
+
+24-Sep-2023 17:24:59:Error of round 567 : 0.056466 
+
+24-Sep-2023 17:24:59:Error of round 568 : 0.056446 
+
+24-Sep-2023 17:24:59:Error of round 569 : 0.056427 
+
+24-Sep-2023 17:24:59:Error of round 570 : 0.056408 
+
+24-Sep-2023 17:24:59:Error of round 571 : 0.056389 
+
+24-Sep-2023 17:24:59:Error of round 572 : 0.056369 
+
+24-Sep-2023 17:24:59:Error of round 573 : 0.056350 
+
+24-Sep-2023 17:24:59:Error of round 574 : 0.056331 
+
+24-Sep-2023 17:24:59:Error of round 575 : 0.056312 
+
+24-Sep-2023 17:24:59:Error of round 576 : 0.056293 
+
+24-Sep-2023 17:24:59:Error of round 577 : 0.056274 
+
+24-Sep-2023 17:25:00:Error of round 578 : 0.056256 
+
+24-Sep-2023 17:25:00:Error of round 579 : 0.056237 
+
+24-Sep-2023 17:25:00:Error of round 580 : 0.056218 
+
+24-Sep-2023 17:25:00:Error of round 581 : 0.056199 
+
+24-Sep-2023 17:25:00:Error of round 582 : 0.056181 
+
+24-Sep-2023 17:25:00:Error of round 583 : 0.056162 
+
+24-Sep-2023 17:25:00:Error of round 584 : 0.056143 
+
+24-Sep-2023 17:25:00:Error of round 585 : 0.056125 
+
+24-Sep-2023 17:25:00:Error of round 586 : 0.056106 
+
+24-Sep-2023 17:25:00:Error of round 587 : 0.056088 
+
+24-Sep-2023 17:25:00:Error of round 588 : 0.056069 
+
+24-Sep-2023 17:25:00:Error of round 589 : 0.056051 
+
+24-Sep-2023 17:25:00:Error of round 590 : 0.056033 
+
+24-Sep-2023 17:25:00:Error of round 591 : 0.056014 
+
+24-Sep-2023 17:25:00:Error of round 592 : 0.055996 
+
+24-Sep-2023 17:25:00:Error of round 593 : 0.055978 
+
+24-Sep-2023 17:25:00:Error of round 594 : 0.055960 
+
+24-Sep-2023 17:25:00:Error of round 595 : 0.055942 
+
+24-Sep-2023 17:25:00:Error of round 596 : 0.055924 
+
+24-Sep-2023 17:25:00:Error of round 597 : 0.055905 
+
+24-Sep-2023 17:25:00:Error of round 598 : 0.055887 
+
+24-Sep-2023 17:25:00:Error of round 599 : 0.055870 
+
+24-Sep-2023 17:25:00:Error of round 600 : 0.055852 
+
+24-Sep-2023 17:25:00:Error of round 601 : 0.055834 
+
+24-Sep-2023 17:25:00:Error of round 602 : 0.055816 
+
+24-Sep-2023 17:25:00:Error of round 603 : 0.055798 
+
+24-Sep-2023 17:25:00:Error of round 604 : 0.055780 
+
+24-Sep-2023 17:25:00:Error of round 605 : 0.055763 
+
+24-Sep-2023 17:25:00:Error of round 606 : 0.055745 
+
+24-Sep-2023 17:25:00:Error of round 607 : 0.055727 
+
+24-Sep-2023 17:25:00:Error of round 608 : 0.055710 
+
+24-Sep-2023 17:25:00:Error of round 609 : 0.055692 
+
+24-Sep-2023 17:25:00:Error of round 610 : 0.055674 
+
+24-Sep-2023 17:25:00:Error of round 611 : 0.055657 
+
+24-Sep-2023 17:25:00:Error of round 612 : 0.055639 
+
+24-Sep-2023 17:25:00:Error of round 613 : 0.055622 
+
+24-Sep-2023 17:25:00:Error of round 614 : 0.055605 
+
+24-Sep-2023 17:25:00:Error of round 615 : 0.055587 
+
+24-Sep-2023 17:25:00:Error of round 616 : 0.055570 
+
+24-Sep-2023 17:25:00:Error of round 617 : 0.055553 
+
+24-Sep-2023 17:25:00:Error of round 618 : 0.055535 
+
+24-Sep-2023 17:25:00:Error of round 619 : 0.055518 
+
+24-Sep-2023 17:25:01:Error of round 620 : 0.055501 
+
+24-Sep-2023 17:25:01:Error of round 621 : 0.055484 
+
+24-Sep-2023 17:25:01:Error of round 622 : 0.055467 
+
+24-Sep-2023 17:25:01:Error of round 623 : 0.055450 
+
+24-Sep-2023 17:25:01:Error of round 624 : 0.055433 
+
+24-Sep-2023 17:25:01:Error of round 625 : 0.055416 
+
+24-Sep-2023 17:25:01:Error of round 626 : 0.055399 
+
+24-Sep-2023 17:25:01:Error of round 627 : 0.055382 
+
+24-Sep-2023 17:25:01:Error of round 628 : 0.055365 
+
+24-Sep-2023 17:25:01:Error of round 629 : 0.055348 
+
+24-Sep-2023 17:25:01:Error of round 630 : 0.055331 
+
+24-Sep-2023 17:25:01:Error of round 631 : 0.055314 
+
+24-Sep-2023 17:25:01:Error of round 632 : 0.055298 
+
+24-Sep-2023 17:25:01:Error of round 633 : 0.055281 
+
+24-Sep-2023 17:25:01:Error of round 634 : 0.055264 
+
+24-Sep-2023 17:25:01:Error of round 635 : 0.055247 
+
+24-Sep-2023 17:25:01:Error of round 636 : 0.055231 
+
+24-Sep-2023 17:25:01:Error of round 637 : 0.055214 
+
+24-Sep-2023 17:25:01:Error of round 638 : 0.055198 
+
+24-Sep-2023 17:25:01:Error of round 639 : 0.055181 
+
+24-Sep-2023 17:25:01:Error of round 640 : 0.055165 
+
+24-Sep-2023 17:25:01:Error of round 641 : 0.055148 
+
+24-Sep-2023 17:25:01:Error of round 642 : 0.055132 
+
+24-Sep-2023 17:25:01:Error of round 643 : 0.055115 
+
+24-Sep-2023 17:25:01:Error of round 644 : 0.055099 
+
+24-Sep-2023 17:25:01:Error of round 645 : 0.055082 
+
+24-Sep-2023 17:25:01:Error of round 646 : 0.055066 
+
+24-Sep-2023 17:25:01:Error of round 647 : 0.055050 
+
+24-Sep-2023 17:25:01:Error of round 648 : 0.055034 
+
+24-Sep-2023 17:25:01:Error of round 649 : 0.055017 
+
+24-Sep-2023 17:25:01:Error of round 650 : 0.055001 
+
+24-Sep-2023 17:25:01:Error of round 651 : 0.054985 
+
+24-Sep-2023 17:25:01:Error of round 652 : 0.054969 
+
+24-Sep-2023 17:25:01:Error of round 653 : 0.054953 
+
+24-Sep-2023 17:25:01:Error of round 654 : 0.054937 
+
+24-Sep-2023 17:25:01:Error of round 655 : 0.054921 
+
+24-Sep-2023 17:25:01:Error of round 656 : 0.054905 
+
+24-Sep-2023 17:25:01:Error of round 657 : 0.054889 
+
+24-Sep-2023 17:25:01:Error of round 658 : 0.054873 
+
+24-Sep-2023 17:25:01:Error of round 659 : 0.054857 
+
+24-Sep-2023 17:25:02:Error of round 660 : 0.054841 
+
+24-Sep-2023 17:25:02:Error of round 661 : 0.054825 
+
+24-Sep-2023 17:25:02:Error of round 662 : 0.054809 
+
+24-Sep-2023 17:25:02:Error of round 663 : 0.054793 
+
+24-Sep-2023 17:25:02:Error of round 664 : 0.054777 
+
+24-Sep-2023 17:25:02:Error of round 665 : 0.054762 
+
+24-Sep-2023 17:25:02:Error of round 666 : 0.054746 
+
+24-Sep-2023 17:25:02:Error of round 667 : 0.054730 
+
+24-Sep-2023 17:25:02:Error of round 668 : 0.054715 
+
+24-Sep-2023 17:25:02:Error of round 669 : 0.054699 
+
+24-Sep-2023 17:25:02:Error of round 670 : 0.054683 
+
+24-Sep-2023 17:25:02:Error of round 671 : 0.054668 
+
+24-Sep-2023 17:25:02:Error of round 672 : 0.054652 
+
+24-Sep-2023 17:25:02:Error of round 673 : 0.054636 
+
+24-Sep-2023 17:25:02:Error of round 674 : 0.054621 
+
+24-Sep-2023 17:25:02:Error of round 675 : 0.054605 
+
+24-Sep-2023 17:25:02:Error of round 676 : 0.054590 
+
+24-Sep-2023 17:25:02:Error of round 677 : 0.054575 
+
+24-Sep-2023 17:25:02:Error of round 678 : 0.054559 
+
+24-Sep-2023 17:25:02:Error of round 679 : 0.054544 
+
+24-Sep-2023 17:25:02:Error of round 680 : 0.054528 
+
+24-Sep-2023 17:25:02:Error of round 681 : 0.054513 
+
+24-Sep-2023 17:25:02:Error of round 682 : 0.054498 
+
+24-Sep-2023 17:25:02:Error of round 683 : 0.054482 
+
+24-Sep-2023 17:25:02:Error of round 684 : 0.054467 
+
+24-Sep-2023 17:25:02:Error of round 685 : 0.054452 
+
+24-Sep-2023 17:25:02:Error of round 686 : 0.054437 
+
+24-Sep-2023 17:25:02:Error of round 687 : 0.054422 
+
+24-Sep-2023 17:25:02:Error of round 688 : 0.054406 
+
+24-Sep-2023 17:25:02:Error of round 689 : 0.054391 
+
+24-Sep-2023 17:25:02:Error of round 690 : 0.054376 
+
+24-Sep-2023 17:25:02:Error of round 691 : 0.054361 
+
+24-Sep-2023 17:25:02:Error of round 692 : 0.054346 
+
+24-Sep-2023 17:25:02:Error of round 693 : 0.054331 
+
+24-Sep-2023 17:25:02:Error of round 694 : 0.054316 
+
+24-Sep-2023 17:25:02:Error of round 695 : 0.054301 
+
+24-Sep-2023 17:25:02:Error of round 696 : 0.054286 
+
+24-Sep-2023 17:25:02:Error of round 697 : 0.054271 
+
+24-Sep-2023 17:25:02:Error of round 698 : 0.054256 
+
+24-Sep-2023 17:25:02:Error of round 699 : 0.054241 
+
+24-Sep-2023 17:25:02:Error of round 700 : 0.054226 
+
+24-Sep-2023 17:25:03:Error of round 701 : 0.054211 
+
+24-Sep-2023 17:25:03:Error of round 702 : 0.054197 
+
+24-Sep-2023 17:25:03:Error of round 703 : 0.054182 
+
+24-Sep-2023 17:25:03:Error of round 704 : 0.054167 
+
+24-Sep-2023 17:25:03:Error of round 705 : 0.054152 
+
+24-Sep-2023 17:25:03:Error of round 706 : 0.054137 
+
+24-Sep-2023 17:25:03:Error of round 707 : 0.054123 
+
+24-Sep-2023 17:25:03:Error of round 708 : 0.054108 
+
+24-Sep-2023 17:25:03:Error of round 709 : 0.054093 
+
+24-Sep-2023 17:25:03:Error of round 710 : 0.054079 
+
+24-Sep-2023 17:25:03:Error of round 711 : 0.054064 
+
+24-Sep-2023 17:25:03:Error of round 712 : 0.054050 
+
+24-Sep-2023 17:25:03:Error of round 713 : 0.054035 
+
+24-Sep-2023 17:25:03:Error of round 714 : 0.054020 
+
+24-Sep-2023 17:25:03:Error of round 715 : 0.054006 
+
+24-Sep-2023 17:25:03:Error of round 716 : 0.053991 
+
+24-Sep-2023 17:25:03:Error of round 717 : 0.053977 
+
+24-Sep-2023 17:25:03:Error of round 718 : 0.053962 
+
+24-Sep-2023 17:25:03:Error of round 719 : 0.053948 
+
+24-Sep-2023 17:25:03:Error of round 720 : 0.053933 
+
+24-Sep-2023 17:25:03:Error of round 721 : 0.053919 
+
+24-Sep-2023 17:25:03:Error of round 722 : 0.053905 
+
+24-Sep-2023 17:25:03:Error of round 723 : 0.053890 
+
+24-Sep-2023 17:25:03:Error of round 724 : 0.053876 
+
+24-Sep-2023 17:25:03:Error of round 725 : 0.053862 
+
+24-Sep-2023 17:25:03:Error of round 726 : 0.053847 
+
+24-Sep-2023 17:25:03:Error of round 727 : 0.053833 
+
+24-Sep-2023 17:25:03:Error of round 728 : 0.053819 
+
+24-Sep-2023 17:25:03:Error of round 729 : 0.053805 
+
+24-Sep-2023 17:25:03:Error of round 730 : 0.053790 
+
+24-Sep-2023 17:25:03:Error of round 731 : 0.053776 
+
+24-Sep-2023 17:25:03:Error of round 732 : 0.053762 
+
+24-Sep-2023 17:25:03:Error of round 733 : 0.053748 
+
+24-Sep-2023 17:25:03:Error of round 734 : 0.053734 
+
+24-Sep-2023 17:25:03:Error of round 735 : 0.053720 
+
+24-Sep-2023 17:25:03:Error of round 736 : 0.053705 
+
+24-Sep-2023 17:25:03:Error of round 737 : 0.053691 
+
+24-Sep-2023 17:25:03:Error of round 738 : 0.053677 
+
+24-Sep-2023 17:25:03:Error of round 739 : 0.053663 
+
+24-Sep-2023 17:25:03:Error of round 740 : 0.053649 
+
+24-Sep-2023 17:25:03:Error of round 741 : 0.053635 
+
+24-Sep-2023 17:25:04:Error of round 742 : 0.053621 
+
+24-Sep-2023 17:25:04:Error of round 743 : 0.053607 
+
+24-Sep-2023 17:25:04:Error of round 744 : 0.053593 
+
+24-Sep-2023 17:25:04:Error of round 745 : 0.053579 
+
+24-Sep-2023 17:25:04:Error of round 746 : 0.053565 
+
+24-Sep-2023 17:25:04:Error of round 747 : 0.053552 
+
+24-Sep-2023 17:25:04:Error of round 748 : 0.053538 
+
+24-Sep-2023 17:25:04:Error of round 749 : 0.053524 
+
+24-Sep-2023 17:25:04:Error of round 750 : 0.053510 
+
+24-Sep-2023 17:25:04:Error of round 751 : 0.053496 
+
+24-Sep-2023 17:25:04:Error of round 752 : 0.053482 
+
+24-Sep-2023 17:25:04:Error of round 753 : 0.053469 
+
+24-Sep-2023 17:25:04:Error of round 754 : 0.053455 
+
+24-Sep-2023 17:25:04:Error of round 755 : 0.053441 
+
+24-Sep-2023 17:25:04:Error of round 756 : 0.053427 
+
+24-Sep-2023 17:25:04:Error of round 757 : 0.053414 
+
+24-Sep-2023 17:25:04:Error of round 758 : 0.053400 
+
+24-Sep-2023 17:25:04:Error of round 759 : 0.053386 
+
+24-Sep-2023 17:25:04:Error of round 760 : 0.053373 
+
+24-Sep-2023 17:25:04:Error of round 761 : 0.053359 
+
+24-Sep-2023 17:25:04:Error of round 762 : 0.053345 
+
+24-Sep-2023 17:25:04:Error of round 763 : 0.053332 
+
+24-Sep-2023 17:25:04:Error of round 764 : 0.053318 
+
+24-Sep-2023 17:25:04:Error of round 765 : 0.053305 
+
+24-Sep-2023 17:25:04:Error of round 766 : 0.053291 
+
+24-Sep-2023 17:25:04:Error of round 767 : 0.053278 
+
+24-Sep-2023 17:25:04:Error of round 768 : 0.053264 
+
+24-Sep-2023 17:25:04:Error of round 769 : 0.053251 
+
+24-Sep-2023 17:25:04:Error of round 770 : 0.053237 
+
+24-Sep-2023 17:25:04:Error of round 771 : 0.053224 
+
+24-Sep-2023 17:25:04:Error of round 772 : 0.053210 
+
+24-Sep-2023 17:25:04:Error of round 773 : 0.053197 
+
+24-Sep-2023 17:25:04:Error of round 774 : 0.053183 
+
+24-Sep-2023 17:25:04:Error of round 775 : 0.053170 
+
+24-Sep-2023 17:25:04:Error of round 776 : 0.053157 
+
+24-Sep-2023 17:25:04:Error of round 777 : 0.053143 
+
+24-Sep-2023 17:25:04:Error of round 778 : 0.053130 
+
+24-Sep-2023 17:25:04:Error of round 779 : 0.053116 
+
+24-Sep-2023 17:25:04:Error of round 780 : 0.053103 
+
+24-Sep-2023 17:25:04:Error of round 781 : 0.053090 
+
+24-Sep-2023 17:25:04:Error of round 782 : 0.053077 
+
+24-Sep-2023 17:25:05:Error of round 783 : 0.053063 
+
+24-Sep-2023 17:25:05:Error of round 784 : 0.053050 
+
+24-Sep-2023 17:25:05:Error of round 785 : 0.053037 
+
+24-Sep-2023 17:25:05:Error of round 786 : 0.053024 
+
+24-Sep-2023 17:25:05:Error of round 787 : 0.053010 
+
+24-Sep-2023 17:25:05:Error of round 788 : 0.052997 
+
+24-Sep-2023 17:25:05:Error of round 789 : 0.052984 
+
+24-Sep-2023 17:25:05:Error of round 790 : 0.052971 
+
+24-Sep-2023 17:25:05:Error of round 791 : 0.052958 
+
+24-Sep-2023 17:25:05:Error of round 792 : 0.052945 
+
+24-Sep-2023 17:25:05:Error of round 793 : 0.052931 
+
+24-Sep-2023 17:25:05:Error of round 794 : 0.052918 
+
+24-Sep-2023 17:25:05:Error of round 795 : 0.052905 
+
+24-Sep-2023 17:25:05:Error of round 796 : 0.052892 
+
+24-Sep-2023 17:25:05:Error of round 797 : 0.052879 
+
+24-Sep-2023 17:25:05:Error of round 798 : 0.052866 
+
+24-Sep-2023 17:25:05:Error of round 799 : 0.052853 
+
+24-Sep-2023 17:25:05:Error of round 800 : 0.052840 
+
+24-Sep-2023 17:25:05:Error of round 801 : 0.052827 
+
+24-Sep-2023 17:25:05:Error of round 802 : 0.052814 
+
+24-Sep-2023 17:25:05:Error of round 803 : 0.052801 
+
+24-Sep-2023 17:25:05:Error of round 804 : 0.052788 
+
+24-Sep-2023 17:25:05:Error of round 805 : 0.052775 
+
+24-Sep-2023 17:25:05:Error of round 806 : 0.052762 
+
+24-Sep-2023 17:25:05:Error of round 807 : 0.052749 
+
+24-Sep-2023 17:25:05:Error of round 808 : 0.052737 
+
+24-Sep-2023 17:25:05:Error of round 809 : 0.052724 
+
+24-Sep-2023 17:25:05:Error of round 810 : 0.052711 
+
+24-Sep-2023 17:25:05:Error of round 811 : 0.052698 
+
+24-Sep-2023 17:25:05:Error of round 812 : 0.052685 
+
+24-Sep-2023 17:25:05:Error of round 813 : 0.052672 
+
+24-Sep-2023 17:25:05:Error of round 814 : 0.052660 
+
+24-Sep-2023 17:25:05:Error of round 815 : 0.052647 
+
+24-Sep-2023 17:25:05:Error of round 816 : 0.052634 
+
+24-Sep-2023 17:25:05:Error of round 817 : 0.052621 
+
+24-Sep-2023 17:25:05:Error of round 818 : 0.052608 
+
+24-Sep-2023 17:25:05:Error of round 819 : 0.052596 
+
+24-Sep-2023 17:25:05:Error of round 820 : 0.052583 
+
+24-Sep-2023 17:25:05:Error of round 821 : 0.052570 
+
+24-Sep-2023 17:25:05:Error of round 822 : 0.052558 
+
+24-Sep-2023 17:25:05:Error of round 823 : 0.052545 
+
+24-Sep-2023 17:25:06:Error of round 824 : 0.052532 
+
+24-Sep-2023 17:25:06:Error of round 825 : 0.052520 
+
+24-Sep-2023 17:25:06:Error of round 826 : 0.052507 
+
+24-Sep-2023 17:25:06:Error of round 827 : 0.052494 
+
+24-Sep-2023 17:25:06:Error of round 828 : 0.052482 
+
+24-Sep-2023 17:25:06:Error of round 829 : 0.052469 
+
+24-Sep-2023 17:25:06:Error of round 830 : 0.052457 
+
+24-Sep-2023 17:25:06:Error of round 831 : 0.052444 
+
+24-Sep-2023 17:25:06:Error of round 832 : 0.052431 
+
+24-Sep-2023 17:25:06:Error of round 833 : 0.052419 
+
+24-Sep-2023 17:25:06:Error of round 834 : 0.052406 
+
+24-Sep-2023 17:25:06:Error of round 835 : 0.052394 
+
+24-Sep-2023 17:25:06:Error of round 836 : 0.052381 
+
+24-Sep-2023 17:25:06:Error of round 837 : 0.052369 
+
+24-Sep-2023 17:25:06:Error of round 838 : 0.052356 
+
+24-Sep-2023 17:25:06:Error of round 839 : 0.052344 
+
+24-Sep-2023 17:25:06:Error of round 840 : 0.052331 
+
+24-Sep-2023 17:25:06:Error of round 841 : 0.052319 
+
+24-Sep-2023 17:25:06:Error of round 842 : 0.052307 
+
+24-Sep-2023 17:25:06:Error of round 843 : 0.052294 
+
+24-Sep-2023 17:25:06:Error of round 844 : 0.052282 
+
+24-Sep-2023 17:25:06:Error of round 845 : 0.052269 
+
+24-Sep-2023 17:25:06:Error of round 846 : 0.052257 
+
+24-Sep-2023 17:25:06:Error of round 847 : 0.052245 
+
+24-Sep-2023 17:25:06:Error of round 848 : 0.052232 
+
+24-Sep-2023 17:25:06:Error of round 849 : 0.052220 
+
+24-Sep-2023 17:25:06:Error of round 850 : 0.052208 
+
+24-Sep-2023 17:25:06:Error of round 851 : 0.052195 
+
+24-Sep-2023 17:25:06:Error of round 852 : 0.052183 
+
+24-Sep-2023 17:25:06:Error of round 853 : 0.052171 
+
+24-Sep-2023 17:25:06:Error of round 854 : 0.052158 
+
+24-Sep-2023 17:25:06:Error of round 855 : 0.052146 
+
+24-Sep-2023 17:25:06:Error of round 856 : 0.052134 
+
+24-Sep-2023 17:25:06:Error of round 857 : 0.052122 
+
+24-Sep-2023 17:25:06:Error of round 858 : 0.052109 
+
+24-Sep-2023 17:25:06:Error of round 859 : 0.052097 
+
+24-Sep-2023 17:25:06:Error of round 860 : 0.052085 
+
+24-Sep-2023 17:25:06:Error of round 861 : 0.052073 
+
+24-Sep-2023 17:25:06:Error of round 862 : 0.052060 
+
+24-Sep-2023 17:25:06:Error of round 863 : 0.052048 
+
+24-Sep-2023 17:25:07:Error of round 864 : 0.052036 
+
+24-Sep-2023 17:25:07:Error of round 865 : 0.052024 
+
+24-Sep-2023 17:25:07:Error of round 866 : 0.052012 
+
+24-Sep-2023 17:25:07:Error of round 867 : 0.052000 
+
+24-Sep-2023 17:25:07:Error of round 868 : 0.051988 
+
+24-Sep-2023 17:25:07:Error of round 869 : 0.051975 
+
+24-Sep-2023 17:25:07:Error of round 870 : 0.051963 
+
+24-Sep-2023 17:25:07:Error of round 871 : 0.051951 
+
+24-Sep-2023 17:25:07:Error of round 872 : 0.051939 
+
+24-Sep-2023 17:25:07:Error of round 873 : 0.051927 
+
+24-Sep-2023 17:25:07:Error of round 874 : 0.051915 
+
+24-Sep-2023 17:25:07:Error of round 875 : 0.051903 
+
+24-Sep-2023 17:25:07:Error of round 876 : 0.051891 
+
+24-Sep-2023 17:25:07:Error of round 877 : 0.051879 
+
+24-Sep-2023 17:25:07:Error of round 878 : 0.051867 
+
+24-Sep-2023 17:25:07:Error of round 879 : 0.051855 
+
+24-Sep-2023 17:25:07:Error of round 880 : 0.051843 
+
+24-Sep-2023 17:25:07:Error of round 881 : 0.051831 
+
+24-Sep-2023 17:25:07:Error of round 882 : 0.051819 
+
+24-Sep-2023 17:25:07:Error of round 883 : 0.051807 
+
+24-Sep-2023 17:25:07:Error of round 884 : 0.051795 
+
+24-Sep-2023 17:25:07:Error of round 885 : 0.051783 
+
+24-Sep-2023 17:25:07:Error of round 886 : 0.051771 
+
+24-Sep-2023 17:25:07:Error of round 887 : 0.051759 
+
+24-Sep-2023 17:25:07:Error of round 888 : 0.051747 
+
+24-Sep-2023 17:25:07:Error of round 889 : 0.051736 
+
+24-Sep-2023 17:25:07:Error of round 890 : 0.051724 
+
+24-Sep-2023 17:25:07:Error of round 891 : 0.051712 
+
+24-Sep-2023 17:25:07:Error of round 892 : 0.051700 
+
+24-Sep-2023 17:25:07:Error of round 893 : 0.051688 
+
+24-Sep-2023 17:25:07:Error of round 894 : 0.051676 
+
+24-Sep-2023 17:25:07:Error of round 895 : 0.051664 
+
+24-Sep-2023 17:25:07:Error of round 896 : 0.051653 
+
+24-Sep-2023 17:25:07:Error of round 897 : 0.051641 
+
+24-Sep-2023 17:25:07:Error of round 898 : 0.051629 
+
+24-Sep-2023 17:25:07:Error of round 899 : 0.051617 
+
+24-Sep-2023 17:25:07:Error of round 900 : 0.051606 
+
+24-Sep-2023 17:25:07:Error of round 901 : 0.051594 
+
+24-Sep-2023 17:25:07:Error of round 902 : 0.051582 
+
+24-Sep-2023 17:25:07:Error of round 903 : 0.051570 
+
+24-Sep-2023 17:25:07:Error of round 904 : 0.051559 
+
+24-Sep-2023 17:25:08:Error of round 905 : 0.051547 
+
+24-Sep-2023 17:25:08:Error of round 906 : 0.051535 
+
+24-Sep-2023 17:25:08:Error of round 907 : 0.051523 
+
+24-Sep-2023 17:25:08:Error of round 908 : 0.051512 
+
+24-Sep-2023 17:25:08:Error of round 909 : 0.051500 
+
+24-Sep-2023 17:25:08:Error of round 910 : 0.051488 
+
+24-Sep-2023 17:25:08:Error of round 911 : 0.051477 
+
+24-Sep-2023 17:25:08:Error of round 912 : 0.051465 
+
+24-Sep-2023 17:25:08:Error of round 913 : 0.051453 
+
+24-Sep-2023 17:25:08:Error of round 914 : 0.051442 
+
+24-Sep-2023 17:25:08:Error of round 915 : 0.051430 
+
+24-Sep-2023 17:25:08:Error of round 916 : 0.051419 
+
+24-Sep-2023 17:25:08:Error of round 917 : 0.051407 
+
+24-Sep-2023 17:25:08:Error of round 918 : 0.051395 
+
+24-Sep-2023 17:25:08:Error of round 919 : 0.051384 
+
+24-Sep-2023 17:25:08:Error of round 920 : 0.051372 
+
+24-Sep-2023 17:25:08:Error of round 921 : 0.051361 
+
+24-Sep-2023 17:25:08:Error of round 922 : 0.051349 
+
+24-Sep-2023 17:25:08:Error of round 923 : 0.051337 
+
+24-Sep-2023 17:25:08:Error of round 924 : 0.051326 
+
+24-Sep-2023 17:25:08:Error of round 925 : 0.051314 
+
+24-Sep-2023 17:25:08:Error of round 926 : 0.051303 
+
+24-Sep-2023 17:25:08:Error of round 927 : 0.051291 
+
+24-Sep-2023 17:25:08:Error of round 928 : 0.051280 
+
+24-Sep-2023 17:25:08:Error of round 929 : 0.051268 
+
+24-Sep-2023 17:25:08:Error of round 930 : 0.051257 
+
+24-Sep-2023 17:25:08:Error of round 931 : 0.051245 
+
+24-Sep-2023 17:25:08:Error of round 932 : 0.051234 
+
+24-Sep-2023 17:25:08:Error of round 933 : 0.051223 
+
+24-Sep-2023 17:25:08:Error of round 934 : 0.051211 
+
+24-Sep-2023 17:25:08:Error of round 935 : 0.051200 
+
+24-Sep-2023 17:25:08:Error of round 936 : 0.051188 
+
+24-Sep-2023 17:25:08:Error of round 937 : 0.051177 
+
+24-Sep-2023 17:25:08:Error of round 938 : 0.051165 
+
+24-Sep-2023 17:25:08:Error of round 939 : 0.051154 
+
+24-Sep-2023 17:25:08:Error of round 940 : 0.051143 
+
+24-Sep-2023 17:25:08:Error of round 941 : 0.051131 
+
+24-Sep-2023 17:25:08:Error of round 942 : 0.051120 
+
+24-Sep-2023 17:25:08:Error of round 943 : 0.051109 
+
+24-Sep-2023 17:25:08:Error of round 944 : 0.051097 
+
+24-Sep-2023 17:25:08:Error of round 945 : 0.051086 
+
+24-Sep-2023 17:25:09:Error of round 946 : 0.051075 
+
+24-Sep-2023 17:25:09:Error of round 947 : 0.051063 
+
+24-Sep-2023 17:25:09:Error of round 948 : 0.051052 
+
+24-Sep-2023 17:25:09:Error of round 949 : 0.051041 
+
+24-Sep-2023 17:25:09:Error of round 950 : 0.051029 
+
+24-Sep-2023 17:25:09:Error of round 951 : 0.051018 
+
+24-Sep-2023 17:25:09:Error of round 952 : 0.051007 
+
+24-Sep-2023 17:25:09:Error of round 953 : 0.050995 
+
+24-Sep-2023 17:25:09:Error of round 954 : 0.050984 
+
+24-Sep-2023 17:25:09:Error of round 955 : 0.050973 
+
+24-Sep-2023 17:25:09:Error of round 956 : 0.050962 
+
+24-Sep-2023 17:25:09:Error of round 957 : 0.050950 
+
+24-Sep-2023 17:25:09:Error of round 958 : 0.050939 
+
+24-Sep-2023 17:25:09:Error of round 959 : 0.050928 
+
+24-Sep-2023 17:25:09:Error of round 960 : 0.050917 
+
+24-Sep-2023 17:25:09:Error of round 961 : 0.050906 
+
+24-Sep-2023 17:25:09:Error of round 962 : 0.050894 
+
+24-Sep-2023 17:25:09:Error of round 963 : 0.050883 
+
+24-Sep-2023 17:25:09:Error of round 964 : 0.050872 
+
+24-Sep-2023 17:25:09:Error of round 965 : 0.050861 
+
+24-Sep-2023 17:25:09:Error of round 966 : 0.050850 
+
+24-Sep-2023 17:25:09:Error of round 967 : 0.050839 
+
+24-Sep-2023 17:25:09:Error of round 968 : 0.050827 
+
+24-Sep-2023 17:25:09:Error of round 969 : 0.050816 
+
+24-Sep-2023 17:25:09:Error of round 970 : 0.050805 
+
+24-Sep-2023 17:25:09:Error of round 971 : 0.050794 
+
+24-Sep-2023 17:25:09:Error of round 972 : 0.050783 
+
+24-Sep-2023 17:25:09:Error of round 973 : 0.050772 
+
+24-Sep-2023 17:25:09:Error of round 974 : 0.050761 
+
+24-Sep-2023 17:25:09:Error of round 975 : 0.050750 
+
+24-Sep-2023 17:25:09:Error of round 976 : 0.050739 
+
+24-Sep-2023 17:25:09:Error of round 977 : 0.050728 
+
+24-Sep-2023 17:25:09:Error of round 978 : 0.050716 
+
+24-Sep-2023 17:25:09:Error of round 979 : 0.050705 
+
+24-Sep-2023 17:25:09:Error of round 980 : 0.050694 
+
+24-Sep-2023 17:25:09:Error of round 981 : 0.050683 
+
+24-Sep-2023 17:25:09:Error of round 982 : 0.050672 
+
+24-Sep-2023 17:25:09:Error of round 983 : 0.050661 
+
+24-Sep-2023 17:25:09:Error of round 984 : 0.050650 
+
+24-Sep-2023 17:25:09:Error of round 985 : 0.050639 
+
+24-Sep-2023 17:25:09:Error of round 986 : 0.050628 
+
+24-Sep-2023 17:25:10:Error of round 987 : 0.050617 
+
+24-Sep-2023 17:25:10:Error of round 988 : 0.050606 
+
+24-Sep-2023 17:25:10:Error of round 989 : 0.050595 
+
+24-Sep-2023 17:25:10:Error of round 990 : 0.050584 
+
+24-Sep-2023 17:25:10:Error of round 991 : 0.050573 
+
+24-Sep-2023 17:25:10:Error of round 992 : 0.050562 
+
+24-Sep-2023 17:25:10:Error of round 993 : 0.050552 
+
+24-Sep-2023 17:25:10:Error of round 994 : 0.050541 
+
+24-Sep-2023 17:25:10:Error of round 995 : 0.050530 
+
+24-Sep-2023 17:25:10:Error of round 996 : 0.050519 
+
+24-Sep-2023 17:25:10:Error of round 997 : 0.050508 
+
+24-Sep-2023 17:25:10:Error of round 998 : 0.050497 
+
+24-Sep-2023 17:25:10:Error of round 999 : 0.050486 
+
+24-Sep-2023 17:25:10:Error of round 1000 : 0.050475 
+
+24-Sep-2023 17:25:10:Finished training. Start recording. Acc:0.970370, test_Acc
+24-Sep-2023 17:25:10:Finished training. Start recording. Acc:0.958333, test_Acc
+24-Sep-2023 17:25:10:Record saved.
